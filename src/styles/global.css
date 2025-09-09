@@ -81,4 +81,10 @@ h1 {
     display: none;
   }
 
+  .skill {
+    color: navy;
+    font-weight: bold;
+		text-transform: "all-caps";
+  }
+
 }
